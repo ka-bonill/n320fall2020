@@ -15,7 +15,7 @@ function movePiece(event)
     rpiece1.setAttribute("cx", rpiece1x);  
 }
 
-//grabs other pieces by id
+//grabs other red pieces by id
 let rpiece2 = document.getElementById("rpiece2");
 let rpiece3 = document.getElementById("rpiece3");
 let rpiece4 = document.getElementById("rpiece4");
@@ -28,6 +28,7 @@ let rpiece10 = document.getElementById("rpiece10");
 let rpiece11 = document.getElementById("rpiece11");
 let rpiece12 = document.getElementById("rpiece12");
 
+//grabs black pieces by id
 let bpiece1 = document.getElementById("bpiece1");
 let bpiece2 = document.getElementById("bpiece2");
 let bpiece3 = document.getElementById("bpiece3");
