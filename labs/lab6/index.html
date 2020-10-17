@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intro Vue Lab</title>
+</head>
+<body>
+
+<div id = "app">
+ 
+    <!-- prints out first book-->
+    <books 
+        v-bind:book = bookList[0]
+        v-bind:key = bookList[0].id  
+    ></books> 
+
+    <!-- prints out second book and checks if it is being displayed or not-->
+    <books 
+        v-bind:book = bookList[1]
+        v-bind:key = bookList[1].id  
+        v-if = "display"
+    ></books> 
+
+    <button v-on:click= "display = !display">Display/Hide</button>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src = "js/vue.js"></script>
+</body>
+</html>
