@@ -1,0 +1,85 @@
+img
+{
+    margin-left: 32%;
+    margin-top: 3%;
+}
+
+button
+{
+    background-color: #ffffff; 
+    border-color: lightpink;
+    width: 10%;
+}
+
+button:hover
+{
+    background-color: lightpink; 
+    border-color: black;
+}
+
+#player1
+{
+    position: absolute;
+    left: 480px;
+    top: 472px;
+}
+
+#player2
+{
+    position: absolute; 
+    left: 500px; 
+    top: 472px;
+}
+
+#board
+{
+    margin-left: 30%;
+    margin-bottom: 0%; 
+    z-index: -2;
+    position: absolute; 
+}
+
+#die
+{
+    margin-left: 30%;
+}
+
+.pink
+{
+    paint-order: stroke; 
+    stroke-width: 3px; 
+    stroke: rgb(0, 0, 0); 
+    fill: rgb(154, 217, 234);
+}
+
+.purple
+{
+    paint-order: stroke; 
+    stroke: rgb(0, 0, 0); 
+    stroke-width: 3px; 
+    fill: rgb(197, 255, 197);
+}
+
+.blue
+{
+    fill: rgb(199, 191, 230); 
+    paint-order: stroke; 
+    stroke: rgb(0, 0, 0); 
+    stroke-width: 3px;
+}
+
+.green
+{
+    paint-order: stroke;
+    stroke: rgb(0, 0, 0); 
+    stroke-width: 3px; 
+    fill: rgb(255, 255, 173);
+}
+
+.yellow
+{
+    paint-order: stroke; 
+    stroke: rgb(0, 0, 0); 
+    stroke-width: 3px;
+     fill: rgb(255, 225, 225);
+}
