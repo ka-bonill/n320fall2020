@@ -1,0 +1,228 @@
+{
+    "characters": [
+      {
+        "first_name": "Eren",
+        "last_name": "Jaeger",
+        "standing": "Soldier",
+        "organization": "Scout Regiment",
+        "skills": "Bravery",
+        "isTitan": 3,
+        "IQ": 98
+      },
+      {
+        "first_name": "Erwin",
+        "last_name": "Smith",
+        "standing": "Commander",
+        "organization": "Scout Regiment",
+        "skills": "Strategic Planner, Extremely Intelligent",
+        "isTitan": 0,
+        "IQ": 130
+      },
+      {
+        "first_name": "Levi",
+        "last_name": "Ackermann",
+        "standing": "Captain",
+        "organization": "Scout Regiment",
+        "skills": "Master Fighter",
+        "isTitan": 0,
+        "IQ": 110
+      },
+      {
+        "first_name": "Mikasa",
+        "last_name": "Ackermann",
+        "standing": "Scout",
+        "organization": "Scout Regiment",
+        "skills": "Master Fighter, Top of class",
+        "isTitan": 0,
+        "IQ": 120
+      },
+      {
+        "first_name": "Armin",
+        "last_name": "Arlelt",
+        "standing": "Scout",
+        "organization": "Scout Regiment",
+        "skills": "Strategic Planner",
+        "isTitan": 3,
+        "IQ": 120
+      },
+      {
+        "first_name": "Hange",
+        "last_name": "Zoe",
+        "standing": "Squad Leader",
+        "organization": "Scout Regiment",
+        "skills": "Strategic Planner, Innovator",
+        "isTitan": 0,
+        "IQ": 120
+      },
+      {
+        "first_name": "Jean",
+        "last_name": "Kirschtein",
+        "standing": "Scout",
+        "organization": "Scout Regiment",
+        "skills": "Top Class Scout",
+        "isTitan": 0,
+        "IQ": 80
+      },
+      {
+        "first_name": "Conny",
+        "last_name": "Springer",
+        "standing": "Scout",
+        "organization": "Scout Regiment",
+        "skills": "Top Class Scout",
+        "isTitan": 0,
+        "IQ": 80
+      },
+      {
+        "first_name": "Sasha",
+        "last_name": "Braus",
+        "standing": "Scout",
+        "organization": "Scout Regiment",
+        "skills": "Top Class Scout, Intuitive",
+        "isTitan": 0,
+        "IQ": 70
+      },
+      {
+        "first_name": "Kenny",
+        "last_name": "Ackermann",
+        "standing": "Delinquent",
+        "organization": "Military Police",
+        "skills": "Master Fighter",
+        "isTitan": 0,
+        "IQ": 120
+      },
+      {
+        "first_name": "",
+        "last_name": "Pyxis",
+        "standing": "Commander",
+        "organization": "Garrison",
+        "skills": "Strategic Planner",
+        "isTitan": 0,
+        "IQ": 120
+      },
+      {
+        "first_name": "Reiner",
+        "last_name": "Braun",
+        "standing": "Warrior",
+        "organization": "Marleyan Military",
+        "skills": "Strength",
+        "isTitan": 3,
+        "IQ": 90
+      },
+      {
+        "first_name": "Zeke",
+        "last_name": "Yaeger",
+        "standing": "Warrior",
+        "organization": "Marleyan Military",
+        "skills": "Strategic Planning",
+        "isTitan": 3,
+        "IQ": 130
+      },
+      {
+        "first_name": "Annie",
+        "last_name": "Leonhart",
+        "standing": "Warrior",
+        "organization": "Marleyan Military",
+        "skills": "Master Fighter",
+        "isTitan": 3,
+        "IQ": 110
+      },
+      {
+        "first_name": "Bertoldt",
+        "last_name": "Hoover",
+        "standing": "Warrior",
+        "organization": "Marleyan Military",
+        "skills": "Strength",
+        "isTitan": 3,
+        "IQ": 90
+      },
+      {
+        "first_name": "Historia",
+        "last_name": "Reiss",
+        "standing": "Nobility",
+        "organization": "Reiss Family",
+        "skills": "Top of Scout Regiment Class",
+        "isTitan": 0,
+        "IQ": 90
+      },
+      {
+        "first_name": "Ymir",
+        "last_name": "",
+        "standing": "Soldier",
+        "organization": "Survey Regiment",
+        "skills": "Top of Scout Regiment Class",
+        "isTitan": 3,
+        "IQ": 90
+      }
+    ],
+    "titans": [
+      {
+        "id": 1,
+        "type": "pure",
+        "height": "2 - 15 meters",
+        "specialty": "They mindlessly attack nearby humans, making them easy to deceive. However, they are still dangerous due to their size, physical strength, and sheer numbers."
+      },
+      {
+        "id": 2,
+        "type": "abnormal",
+        "height": "2 - 15 meters",
+        "specialty": "display abnormal behavior or intelligence are classed as Abnormal. Abnormals often ignore nearby humans and charge to more important locations where they can do more damage."
+      },
+      {
+        "id": 3,
+        "type": "nine titans",
+        "height": "2 - 15 meters",
+        "specialty": "The Nine Titans are fragments of Ymir's power. Humans who inherit them have the power of the Titans, which enables them to transform into their inherited Titan at will, gaining its special abilities while retaining their human body and intelligence."
+      }
+    ],
+    "walls": [
+      {
+        "name": "Maria",
+        "height": "50 meters",
+        "breaches": "In 845, it was breached by the Colossal Titan and Armored Titan, after a century of peace and prosperity, and its territory is lost to the Titans.[5",
+        "districts": "Shiganshina",
+        "rank": "Lower class civilians"
+      },
+      {
+        "name": "Rose",
+        "height": "50 meters",
+        "breaches": " It was breached by the Colossal Titan in 850, 5 years after the fall of Wall Maria, but the breach was later sealed by Eren Jaeger with assistance from the military.",
+        "districts": "Utopia, Calaneth, Trost, Krolva",
+        "rank": "Middle class civilians"
+      },
+      {
+        "name": "Sina",
+        "height": "50 meters",
+        "breaches": "No breaching other than the transformation of Annie Leonhart.",
+        "districts": "Orvud, Stohess, Ehrmich, Yarckel, Capital",
+        "rank": "Upper class civilians and royalty"
+      }
+    ],
+    "districts": [
+      {
+        "name": "Shiganshina",
+        "wall": "Maria",
+        "isGate": "Broken",
+        "attacks": "First attack from colossal and armored titan"
+      },
+      {
+        "name": "Trost",
+        "wall": "Rose",
+        "isGate": "Broken",
+        "attacks": "First attack from colossal and armored titan, repaired by Eren's titan. "
+      },
+      {
+        "name": "Stohess",
+        "wall": "Sina",
+        "isGate": "Semi-broken",
+        "attacks": "Technically never broken but Annie's titan fought Eren's titan within Stohess."
+      }
+    ],
+    "forest": [
+      {
+        "name": "Titan Forest",
+        "location": "Wall Maria",
+        "area": "Area around Wall Maria and outside the walls"
+      }
+    ]
+  }
+  
