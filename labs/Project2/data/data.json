@@ -211,17 +211,64 @@
         "attacks": "First attack from colossal and armored titan, repaired by Eren's titan. "
       },
       {
+        "name": "Ehrmich",
+        "wall": "Sina",
+        "isGate": "Remained the same",
+        "attacks": "No attacks"
+      },
+      {
+        "name": "Quinta",
+        "wall": "Maria",
+        "isGate": "Remained the same",
+        "attacks": "Initial titan attack on Wall Maria"
+      },
+      {
+        "name": "Klorva",
+        "wall": "Rose",
+        "isGate": "Remained the same",
+        "attacks": "No attacks"
+      },
+      {
+        "name": "Yarckel",
+        "wall": "Sina",
+        "isGate": "Remained the same",
+        "attacks": "No attacks"
+      },
+      {
+        "name": "Holst",
+        "wall": "Maria",
+        "isGate": "Remained the same",
+        "attacks": "Initial titan attack on Wall Maria"
+      },
+      {
+        "name": "Karanes",
+        "wall": "Rose",
+        "isGate": "Remained the same",
+        "attacks": "No attacks"
+      },
+      {
         "name": "Stohess",
         "wall": "Sina",
         "isGate": "Semi-broken",
-        "attacks": "Technically never broken but Annie's titan fought Eren's titan within Stohess."
-      }
-    ],
-    "forest": [
+        "attacks": "Technically never broken but Annie's titan fought Eren's titan within Stohess. Titans found within walls."
+      },
       {
-        "name": "Titan Forest",
-        "location": "Wall Maria",
-        "area": "Area around Wall Maria and outside the walls"
+        "name": "Unknown",
+        "wall": "Maria",
+        "isGate": "Remained the same",
+        "attacks": "Initial titan attack on Wall Maria"
+      },
+      {
+        "name": "Utopia",
+        "wall": "Rose",
+        "isGate": "Remained the same",
+        "attacks": "No attacks"
+      },
+      {
+        "name": "Orvud",
+        "wall": "Sina",
+        "isGate": "Remained the same",
+        "attacks": "Rod Reiss attack"
       }
     ]
   }
